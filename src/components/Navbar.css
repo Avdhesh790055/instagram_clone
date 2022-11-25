@@ -1,0 +1,24 @@
+img{
+    width: 10%;
+    object-fit: contain;  /*aspect ratio kharab na  ho*/
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 5px 5px#bebebe;
+
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    padding: 1px 15px;
+}
+
+a{
+   font-size: 20px; 
+   color: black;
+    
+}
